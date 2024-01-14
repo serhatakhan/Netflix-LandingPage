@@ -19,6 +19,10 @@ This project is a HTML5, CSS3 and JavaScript example project that aims to create
 
 If you want to contribute, please open an issue first to discuss the changes. I openly welcome any contributions and feedback.
 
+## Link
+
+https://netflix-landing-page-sa.vercel.app/
+
 ## Screen Gif
 
 ![kayt1-ezgif com-video-to-gif-converter](https://github.com/serhatakhan/NetflixLandingPage/assets/147662915/65768572-7307-4cd7-a0f4-8c95bb6a1ae6)
